@@ -1,6 +1,6 @@
 ### 👋 Olá, eu sou o Christopher Ataide
 
-🚀 Desenvolvedor Full Stack | CEO & Founder da iCodev  
+🚀 Desenvolvedor Full Stack | CEO & Founder da iCodev Tecnologia e Inovação
 
 Atuo no desenvolvimento de soluções escaláveis, automações e sistemas orientados a performance e boas práticas.  
 Tenho foco em arquitetura, código limpo e em transformar problemas complexos em soluções simples e eficientes.
