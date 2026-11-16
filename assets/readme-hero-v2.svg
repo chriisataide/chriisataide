@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="395" viewBox="0 0 1200 395" role="img" aria-label="Christopher Ataide — Software Architect, AI Engineer, Founder">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080F1D"/><stop offset=".55" stop-color="#101C32"/><stop offset="1" stop-color="#0B1230"/></linearGradient>
+  <radialGradient id="aura"><stop offset="0" stop-color="#29CBBF" stop-opacity=".24"/><stop offset="1" stop-color="#29CBBF" stop-opacity="0"/></radialGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#55EFCB"/><stop offset="1" stop-color="#658BFF"/></linearGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#7CA6D3" stroke-opacity=".08" stroke-width="1"/></pattern>
+</defs>
+<rect width="1200" height="395" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="395" rx="24" fill="url(#grid)"/>
+<ellipse cx="938" cy="185" rx="300" ry="255" fill="url(#aura)"/>
+<rect x="28" y="28" width="1144" height="339" rx="15" fill="none" stroke="#7E9FC3" stroke-opacity=".21"/>
+<rect x="64" y="52" width="7" height="7" rx="2" fill="#52EEC7"/>
+<text x="85" y="61" fill="#C5D8EB" font-size="15" font-family="Arial,Helvetica,sans-serif" font-weight="700" letter-spacing="3">ICODEV / BUILD WHAT MATTERS</text>
+<line x1="64" y1="88" x2="690" y2="88" stroke="#5A7D9E" stroke-opacity=".36"/>
+<text x="62" y="160" fill="#F5F9FF" font-size="74" font-family="Arial,Helvetica,sans-serif" font-weight="800" letter-spacing="-2.4">CHRISTOPHER</text>
+<text x="62" y="238" fill="url(#edge)" font-size="84" font-family="Arial,Helvetica,sans-serif" font-weight="800" letter-spacing="-2">ATAIDE<tspan fill="#F4F8FF">.</tspan></text>
+<rect x="62" y="260" width="585" height="1" fill="#8AA4BD" opacity=".25"/>
+<text x="64" y="290" fill="#D2DFEF" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="18" letter-spacing="2">SOFTWARE ARCHITECT  /  AI ENGINEER</text>
+<text x="64" y="326" fill="#8FA9BF" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing=".65">Founder • Engineering • Automation • Intelligent Systems</text>
+<circle cx="954" cy="191" r="155" fill="none" stroke="#7DCEFF" stroke-width="1" stroke-opacity=".18" stroke-dasharray="7 13"/>
+<circle cx="954" cy="191" r="119" fill="none" stroke="#58E9CE" stroke-width="1.5" stroke-opacity=".34"/>
+<circle cx="954" cy="191" r="90" fill="none" stroke="#789FFF" stroke-width="1" stroke-opacity=".5" stroke-dasharray="5 7"/>
+<path d="M954 95 1038 144 1038 239 954 287 870 239 870 144Z" fill="#132C3F" stroke="url(#edge)" stroke-width="3"/>
+<path d="m954 122 60 35v69l-60 35-60-35v-69Z" fill="none" stroke="#56DEDC" stroke-opacity=".42" stroke-width="2"/>
+<path d="M914 194 944 224 1001 161" fill="none" stroke="url(#edge)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#5CECCE"><circle cx="954" cy="36" r="5"/><circle cx="1109" cy="191" r="5"/><circle cx="954" cy="346" r="5"/><circle cx="799" cy="191" r="5"/></g>
+<g stroke="#71B9DF" stroke-opacity=".55" stroke-width="1.5" fill="none">
+<path d="M1038 144h45l21-19h40"/><path d="M870 239h-42l-26 30h-43"/><path d="M954 95V64l24-18"/><path d="M1038 239l35 22h53"/></g>
+<g fill="#7DBEFF"><circle cx="1144" cy="125" r="4"/><circle cx="759" cy="269" r="4"/><circle cx="978" cy="46" r="4"/><circle cx="1126" cy="261" r="4"/></g>
+<text x="1071" y="335" fill="#8CABCB" font-size="11" font-family="Arial,Helvetica,sans-serif" letter-spacing="2">SYSTEMS / 01</text>
+</svg>
