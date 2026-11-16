@@ -1,101 +1,114 @@
 <div align="center">
 
-# Olá, eu sou o Christopher Ataide 👋
+<img src="./assets/readme-hero-v2.svg" alt="Christopher Ataide — Software Architect, AI Engineer e Founder da iCodev" width="100%" />
 
-### CEO & Founder @ iCodev Tecnologia e Inovação
-**Software Architect · Full Stack Developer · AI Engineer**
+<br>
 
-Construo **produtos digitais, automações e soluções de inteligência artificial** que conectam tecnologia à realidade das operações.
+<a href="https://www.linkedin.com/in/christopherataide"><img src="https://img.shields.io/badge/LET'S_CONNECT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/company/icodev-tech"><img src="https://img.shields.io/badge/FOUNDER-iCODEV-111827?style=for-the-badge&logo=github&logoColor=white" alt="iCodev" /></a>
+<a href="https://github.com/chriisataide?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-18A999?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios" /></a>
 
-**Da arquitetura ao deploy. Da ideia ao impacto.**
+<br><br>
 
-<p>
-  <a href="https://www.linkedin.com/in/christopherataide">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/company/icodev-tech">
-    <img alt="iCodev Tecnologia e Inovação" src="https://img.shields.io/badge/iCodev-Tecnologia%20%26%20Inova%C3%A7%C3%A3o-111827?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/chriisataide?tab=repositories">
-    <img alt="Repositórios GitHub" src="https://img.shields.io/badge/GitHub-Reposit%C3%B3rios-24292F?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+**Transformo processos complexos em experiências digitais inteligentes.**  
+`ENGINEERING` &nbsp; `ARTIFICIAL INTELLIGENCE` &nbsp; `AUTOMATION` &nbsp; `DATA`
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+### `01 / WHO I AM` &nbsp; 👨‍💻
 
-Sou desenvolvedor e arquiteto de software com **mais de 5 anos de experiência** em soluções para ambientes empresariais.
+## Tecnologia que funciona além do código.
 
-À frente da **iCodev Tecnologia e Inovação**, atuo da definição da arquitetura à implementação e evolução de sistemas. Meu foco é transformar processos complexos e trabalhos manuais em **plataformas escaláveis, integradas e úteis para quem está na operação**.
+Sou **Christopher Ataide**, **CEO & Founder da iCodev Tecnologia e Inovação**, **Software Architect**, **Full Stack Developer** e **AI Engineer**.
 
-Minha abordagem combina **engenharia de software + inteligência artificial + automação + dados**.
+Tenho **mais de 5 anos de experiência** no desenvolvimento de soluções empresariais. Meu trabalho conecta **estratégia, arquitetura, engenharia e operação** — da identificação do problema ao deploy de sistemas confiáveis.
 
-## 🧠 Áreas de atuação
+> **A tecnologia tem valor quando resolve problemas reais.**
 
-| Área | O que desenvolvo |
+<br>
+
+### `02 / WHAT I BUILD` &nbsp; 🧩
+
+| 🏗️ **Software Engineering** | 🤖 **Applied AI** |
 | :--- | :--- |
-| **Arquitetura de Software** | Sistemas escaláveis, microsserviços, APIs, integrações e aplicações multi-tenant |
-| **IA Aplicada** | AI Agents, copilotos, automação inteligente e integração de modelos a processos |
-| **Plataformas Corporativas** | SaaS, Help Desk, gestão de operações, FSM, workflows e sistemas em tempo real |
-| **Computer Vision** | Análise de imagens e vídeo, detecção de eventos e inteligência operacional |
-| **Dados & Analytics** | Dashboards, indicadores, relatórios e apoio à tomada de decisão |
+| Arquitetura escalável, SaaS, APIs, integrações, aplicações multi-tenant e sistemas em tempo real. | AI Agents, copilotos, workflows inteligentes e IA integrada a processos corporativos. |
+| 📊 **Operational Intelligence** | 👁️ **Computer Vision** |
+| Dashboards, métricas, BI, automação e análise de dados para tomada de decisão. | Detecção de eventos, análise de vídeo, monitoramento e inteligência visual. |
 
-## 🚀 Produtos em destaque
+<br>
 
-### 🔹 iConnect
-**Plataforma de gestão de serviços e operações empresariais.**
+### `03 / FEATURED PRODUCTS` &nbsp; 🚀
 
-Um ecossistema voltado a **atendimentos, tickets, SLAs, ativos, equipes em campo, projetos, automações e integrações**. O objetivo é centralizar processos e oferecer rastreabilidade à operação.
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="./assets/iconnect-card-v2.svg" alt="iConnect — Plataforma de operações e atendimento" width="100%"/>
+<br>
+<strong>Gestão de serviços e operações</strong><br><br>
+Tickets, SLAs, ativos, field service, projetos e automações em uma plataforma empresarial integrada.<br><br>
+<code>Python</code> <code>Django</code> <code>PostgreSQL</code> <code>Redis</code> <code>Docker</code>
+</td>
+<td width="50%" valign="top">
+<img src="./assets/ianalytical-card-v2.svg" alt="iAnalytical — Inteligência operacional e visão computacional" width="100%"/>
+<br>
+<strong>Visão computacional e analytics</strong><br><br>
+Inteligência sobre fluxos de vídeo e dados, com identificação de eventos, dashboards e indicadores operacionais.<br><br>
+<code>Python</code> <code>Computer Vision</code> <code>AI</code> <code>Analytics</code>
+</td>
+</tr>
+</table>
 
-`Python` `Django` `Django REST Framework` `PostgreSQL` `Redis` `WebSockets` `Docker`
+<br>
 
-### 🔹 iAnalytical
-**Inteligência operacional orientada por visão computacional e dados.**
-
-Plataforma voltada a **análise de vídeo, identificação de eventos, indicadores operacionais, dashboards e monitoramento inteligente**, transformando imagens e dados em informações acionáveis.
-
-`Python` `Computer Vision` `Object Detection` `AI` `Analytics` `Business Intelligence`
-
-## ⚙️ Tecnologias e ferramentas
+### `04 / TECHNOLOGY STACK` &nbsp; ⚡
 
 <div align="center">
 
-<img alt="Tecnologias: Python, Django, JavaScript, TypeScript, React, Next.js, Vue, PostgreSQL, MySQL, MongoDB, Redis, Docker, Linux, Git e GitHub" src="https://skillicons.dev/icons?i=python,django,js,ts,react,nextjs,vue,postgres,mysql,mongodb,redis,docker,linux,git,github&perline=8" />
+**Languages & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,js,ts,react,nextjs,vue&perline=8" alt="Python, Django, FastAPI, JavaScript, TypeScript, React, Next.js e Vue" />
+
+<br><br>
+
+**Data, Infrastructure & Tools**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,linux,nginx,git,github&perline=9" alt="PostgreSQL, MySQL, MongoDB, Redis, Docker, Linux, Nginx, Git e GitHub" />
 
 </div>
 
-**Backend & APIs:** Python, Django, Django REST Framework, FastAPI, REST, WebSockets  
-**Frontend:** JavaScript, TypeScript, React, Next.js, Vue  
-**Dados & Infraestrutura:** PostgreSQL, MySQL, MongoDB, Redis, Docker, Linux, Nginx  
-**IA & Analytics:** AI Agents, Computer Vision, automação e análise de dados
+<br>
 
-## 🔭 No que estou focado
+### `05 / CURRENT MISSION` &nbsp; 🎯
 
-- **AI Agents & Copilots:** agentes conectados a ferramentas, sistemas e processos reais.
-- **Enterprise Automation:** redução de tarefas manuais e integração entre plataformas.
-- **Computer Vision:** inteligência extraída de câmeras e fluxos de vídeo.
-- **Scalable Architecture:** soluções seguras, observáveis e preparadas para evoluir.
-- **Operational Intelligence:** indicadores que apoiam decisões e melhoram a execução.
+```text
+> Designing intelligent software for real-world operations.
 
-## 💭 Minha visão sobre tecnologia
+  [01] Enterprise AI & autonomous agents
+  [02] Workflow automation & integrations
+  [03] Computer vision & operational analytics
+  [04] Scalable, secure software architecture
+  [05] Products that create measurable value
+```
 
-> **Software não deve apenas funcionar. Deve resolver problemas reais.**
+<br>
 
-Acredito em construir soluções que vão além de uma boa demonstração: **precisam ser confiáveis, fazer sentido para o negócio e funcionar no dia a dia de quem as utiliza.**
-
----
+### `06 / PHILOSOPHY` &nbsp; 💭
 
 <div align="center">
 
-### Vamos transformar boas ideias em soluções reais? 🚀
+### “Software não deve apenas funcionar.
+### Deve resolver problemas reais.”
 
-Se você está construindo algo com **software, IA ou automação**, vamos conversar.
+**Build with purpose. Engineer for scale. Deliver real impact.**
 
-<a href="https://www.linkedin.com/in/christopherataide">
-  <img alt="Fale comigo pelo LinkedIn" src="https://img.shields.io/badge/Vamos%20conversar-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<br>
+
+<a href="https://www.linkedin.com/in/christopherataide"><img src="https://img.shields.io/badge/LET'S_BUILD_SOMETHING-TOGETHER-28B99D?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vamos conversar no LinkedIn" /></a>
+
+<br><br>
+
+<sub>Designed with purpose • Christopher Ataide © 2026</sub>
 
 </div>
